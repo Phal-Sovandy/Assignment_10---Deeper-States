@@ -70,7 +70,7 @@ header h1 {
   text-align: center;
   cursor: pointer;
 }
-.order-button .disable {
+.order-button.disable {
   background-color: var(--grey-color);
 }
 
